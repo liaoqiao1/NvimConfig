@@ -102,7 +102,7 @@ git clone --depth 1 https://github.com/wbthomason/packer.nvim\
 >
 #### 5. 常用快捷键
 
-|自定义快捷键			                               |
+|自定义快捷键			                   |
 |---                                       |
 | vs       > 分割窗口                      |
 | =        > 格式化代码                    |
