@@ -46,7 +46,7 @@ map ("n", "<C-f>", ':Telescop<CR>', opt)
 
 -- 6 ==============标签页切换=============
 map ("n", "<F23>", ":BufferLineCycleNext<CR>", opt)
-map ("n", "<C-d>", ":BufferLinePickClose<CR>", opt)
+map ("n", "<leader>d", ":BufferLinePickClose<CR>", opt)
 
 
 -- 7 ===============目录树==================
